@@ -4,6 +4,8 @@
 
 # 🏦 Bank Loan Portfolio Analysis
 
+# YT Link :- https://youtu.be/R9Vc-L-WIes
+
 ### End-to-End Data Analytics Project using Python, PostgreSQL, SQL & Power BI
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
